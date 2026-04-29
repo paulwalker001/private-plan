@@ -1,0 +1,14 @@
+{
+  "name": "Private-Plan",
+  "version": "1.0.0",
+  "description": "This is my little Private-plan project!",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build step required'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
